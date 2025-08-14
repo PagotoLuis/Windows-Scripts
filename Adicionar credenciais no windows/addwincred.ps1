@@ -1,7 +1,7 @@
-$targetName = "UMA039S"
-$targetName1 = "UMA015S"
-$targetName2 = "UMA004S"
-$targetName3 = "UMA042S"
+$targetName = ""
+$targetName1 = ""
+$targetName2 = ""
+$targetName3 = ""
 
 
 $username = Read-Host "Usuario"
@@ -28,3 +28,4 @@ try {
 }
 
 Read-Host "Pressione enter para continuar..."
+
